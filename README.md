@@ -2,3 +2,4 @@
 study
 
 ohayogosaimasu konichiwa osaka desu
+annyeong
